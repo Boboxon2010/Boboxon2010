@@ -1,5 +1,5 @@
 ## Hi I'm Boboxon Jumaboyev Qodirberdi O'g'li
-![Welcome banner](./water-text.svg)
+[![Welcome banner](./water-text.svg)](https://raw.githubusercontent.com/Boboxon2010/Boboxon2010/refs/heads/main/water-text.svg)
 
 <h3> I am Boboxon Jumaboyev. </h3>
 <ol>Mening IT ko'nikmalarim:
