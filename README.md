@@ -1,4 +1,6 @@
 ## Hi I'm Boboxon Jumaboyev Qodirberdi O'g'li
+![Welcome banner](./water-text.svg)
+
 <h3> I am Boboxon Jumaboyev. </h3>
 <ol>Mening IT ko'nikmalarim:
 <li>HTML 5</li>
