@@ -1,30 +1,29 @@
-<h1 align="center">
-  Hi 👋, I'm Boboxon Jumaboyev
-</h1>
+<h1 align="center">Hi 👋, I'm Boboxon Jumaboyev</h1>
 
 <h3 align="center">
-  Frontend Developer | JavaScript Enthusiast | Clean Code Lover
+  Python Developer | Backend Engineer | Automation Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=800&lines=Frontend+Developer;JavaScript+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=800&lines=Python+Developer;Backend+Engineer;Automation+Specialist;Open+Source+Contributor;Clean+Architecture+Advocate" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Modern Web Projects**
-- 🌱 Learning **Advanced JavaScript & React**
-- 💡 Passionate about clean UI & performance optimization
-- 🎯 Goal: Become Full Stack Engineer
+- 🐍 Backend development with **Python**
+- ⚙️ Building APIs & automation systems
+- 🗄 Working with databases & data processing
+- 📈 Focused on performance & scalable architecture
+- 🎯 Goal: Become Senior Backend Engineer
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mysql,git,github,linux,vscode" />
 </p>
 
 ---
@@ -47,7 +46,21 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake](https://raw.githubusercontent.com/Boboxon2010/Boboxon2010/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Boboxon2010/Boboxon2010/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech |
+|----------|------------|------|
+| Robocontest Tasks | Algorithm & problem solving solutions | Python |
+| Telegram Bot | Text processing & automation bot | Python |
+| Portfolio | Personal developer portfolio | HTML/CSS |
+
 ---
 
 ## 🌐 Connect With Me
@@ -56,7 +69,7 @@
   <a href="https://t.me/Boboxon_Jumaboyev">
     <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/jumaboyev._.oo6">
+  <a href="https://instagram.com/jumaboyev__006">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
