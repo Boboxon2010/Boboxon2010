@@ -60,31 +60,15 @@
 
 ## 🌐 Connect
 
-<div align="center" style="width:100%;">
-  <div
-    style="
-      width:100%;
-      display:flex;
-      flex-wrap:wrap;
-      justify-content:center;
-      gap:18px;
-      padding:10px 0;
-    "
-  >
-    <!-- Telegram -->
-    <a href="https://t.me/Boboxon_Jumaboyev" target="_blank" rel="noreferrer"
-      style="
-        flex:1 1 320px;
-        max-width:420px;
-        min-width:280px;
-        text-decoration:none;
-      "
-    >
-      <img
-        src="https://img.shields.io/badge/Telegram-@Boboxon__Jumaboyev-0575E6?style=for-the-badge&logo=telegram&logoColor=white"
-        alt="Telegram"
-        style="width:100%; height:72px;"
-      />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://t.me/Boboxon_Jumaboyev">
+    <img src="https://img.shields.io/badge/Telegram-0575E6?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/jumaboyev__006">
+    <img src="https://img.shields.io/badge/Instagram-00F260?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer" />
+</p>
