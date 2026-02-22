@@ -40,14 +40,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boboxon2010&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=1800&v=2" height="180"/>
   <img src="https://streak-stats.demolab.com?user=Boboxon2010&theme=radical&hide_border=true&cache_seconds=1800&v=2" height="180"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boboxon2010&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&v=2" height="160"/>
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
