@@ -86,37 +86,5 @@
         style="width:100%; height:72px;"
       />
     </a>
-
-    <!-- Instagram -->
-    <a href="https://instagram.com/jumaboyev__006" target="_blank" rel="noreferrer"
-      style="
-        flex:1 1 320px;
-        max-width:420px;
-        min-width:280px;
-        text-decoration:none;
-      "
-    >
-      <img
-        src="https://img.shields.io/badge/Instagram-@jumaboyev__006-00F260?style=for-the-badge&logo=instagram&logoColor=white"
-        alt="Instagram"
-        style="width:100%; height:72px;"
-      />
-    </a>
-
-    <!-- RoboContest -->
-    <a href="https://robocontest.uz/profile/boboxon2010" target="_blank" rel="noreferrer"
-      style="
-        flex:1 1 320px;
-        max-width:420px;
-        min-width:280px;
-        text-decoration:none;
-      "
-    >
-      <img
-        src="https://img.shields.io/badge/RoboContest-boboxon2010-0575E6?style=for-the-badge&logo=robotframework&logoColor=white"
-        alt="RoboContest"
-        style="width:100%; height:72px;"
-      />
-    </a>
   </div>
 </div>
