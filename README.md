@@ -1,46 +1,51 @@
-<h1 align="center">Hi 👋, I'm Boboxon Jumaboyev</h1>
-
-<h3 align="center">
-  Python Developer | Backend Engineer | Automation Enthusiast
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=200&section=header&text=Boboxon%20Jumaboyev&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=800&lines=Python+Developer;Backend+Engineer;Automation+Specialist;Open+Source+Contributor;Clean+Architecture+Advocate" />
+  <b>🐍 Python Backend Developer • API Engineer • Automation</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Backend+Engineer;FastAPI+%7C+Django;Automation+%26+Bots;Clean+Architecture" />
+</p>
+
+<p align="center">
+  <a href="https://boboxon2010.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-00F260?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Boboxon2010&label=Profile%20views&color=0575E6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Boboxon2010?label=Followers&style=for-the-badge&color=00F260" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About
 
-- 🐍 Backend development with **Python**
-- ⚙️ Building APIs & automation systems
-- 🗄 Working with databases & data processing
-- 📈 Focused on performance & scalable architecture
-- 🎯 Goal: Become Senior Backend Engineer
+- 🐍 Python’da **Backend / API** (FastAPI, Django)
+- ⚙️ **Automation**, botlar, integratsiyalar
+- 🗄 **PostgreSQL/MySQL**, caching (Redis)
+- 🚀 Maqsad: **scalable & clean** backend tizimlar
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mysql,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mysql,redis,docker,linux,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boboxon2010&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Boboxon2010&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boboxon2010&theme=radical&hide_border=true" height="180"/>
 </p>
 
----
-
-## 📈 Most Used Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boboxon2010&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boboxon2010&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -53,29 +58,65 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🌐 Connect
 
-| Project | Description | Tech |
-|----------|------------|------|
-| Robocontest Tasks | Algorithm & problem solving solutions | Python |
-| Telegram Bot | Text processing & automation bot | Python |
-| Portfolio | Personal developer portfolio | HTML/CSS |
+<div align="center" style="width:100%;">
+  <div
+    style="
+      width:100%;
+      display:flex;
+      flex-wrap:wrap;
+      justify-content:center;
+      gap:18px;
+      padding:10px 0;
+    "
+  >
+    <!-- Telegram -->
+    <a href="https://t.me/Boboxon_Jumaboyev" target="_blank" rel="noreferrer"
+      style="
+        flex:1 1 320px;
+        max-width:420px;
+        min-width:280px;
+        text-decoration:none;
+      "
+    >
+      <img
+        src="https://img.shields.io/badge/Telegram-@Boboxon__Jumaboyev-0575E6?style=for-the-badge&logo=telegram&logoColor=white"
+        alt="Telegram"
+        style="width:100%; height:72px;"
+      />
+    </a>
 
----
+    <!-- Instagram -->
+    <a href="https://instagram.com/jumaboyev__006" target="_blank" rel="noreferrer"
+      style="
+        flex:1 1 320px;
+        max-width:420px;
+        min-width:280px;
+        text-decoration:none;
+      "
+    >
+      <img
+        src="https://img.shields.io/badge/Instagram-@jumaboyev__006-00F260?style=for-the-badge&logo=instagram&logoColor=white"
+        alt="Instagram"
+        style="width:100%; height:72px;"
+      />
+    </a>
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://t.me/Boboxon_Jumaboyev">
-    <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/jumaboyev__006">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F72E,100:00C2FF&height=120&section=footer"/>
-</p>
+    <!-- RoboContest -->
+    <a href="https://robocontest.uz/profile/boboxon2010" target="_blank" rel="noreferrer"
+      style="
+        flex:1 1 320px;
+        max-width:420px;
+        min-width:280px;
+        text-decoration:none;
+      "
+    >
+      <img
+        src="https://img.shields.io/badge/RoboContest-boboxon2010-0575E6?style=for-the-badge&logo=robotframework&logoColor=white"
+        alt="RoboContest"
+        style="width:100%; height:72px;"
+      />
+    </a>
+  </div>
+</div>
