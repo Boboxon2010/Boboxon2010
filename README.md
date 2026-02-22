@@ -47,11 +47,7 @@
 ---
 
 ## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Boboxon2010/Boboxon2010/output/github-contribution-grid-snake.svg" />
-</p>
-
+![snake](https://raw.githubusercontent.com/Boboxon2010/Boboxon2010/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🌐 Connect With Me
